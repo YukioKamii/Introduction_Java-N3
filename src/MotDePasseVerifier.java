@@ -40,7 +40,7 @@ public class MotDePasseVerifier {
                 break;
             }
         }
-        
+        // test
         return contientMajuscule; // Retourner true si une majuscule est trouvée
     }
 }
